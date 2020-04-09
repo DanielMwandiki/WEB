@@ -1,0 +1,31 @@
+body{
+  background-color: #021e4a;
+  color: white;
+  font-family: arial;
+  border: 40px solid #5edbc6;
+  text-align: center;
+  border-top: 0px;
+  margin: 0px;
+}
+p{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+
+}
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+#sm{
+  shape-outside: circle();
+  background-color: orange;
+  text-align: center;
+  width: 200px;
+  height:70px;
+  color: black;
+  font-size: 1em;
+  margin: 4px;
+  margin-top: 12px;
+  border-radius: 25px;
+}

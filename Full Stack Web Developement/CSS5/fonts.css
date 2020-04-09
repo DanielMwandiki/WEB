@@ -1,0 +1,18 @@
+h1{
+  font-family: "Arial";
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 1.0em;
+}
+
+h1{
+  text-align: center;
+}
